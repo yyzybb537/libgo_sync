@@ -1,4 +1,4 @@
-#libgo_sync
+# libgo_sync
 一套通用的协程同步组件(mutex/shared_mutex/condition_variable/channel)
 
 一套同时支持多种协程+线程的同步组件, 可以帮助c++协程库完善生态.
